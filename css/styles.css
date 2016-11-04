@@ -1,0 +1,71 @@
+/* Global Layout Set-up */
+* { 
+  box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	
+	color: #4A4A4A;
+}
+
+img {
+	width: 100%;
+}
+
+.main_nav li {
+	list-style: none;
+	padding: 1em;
+	background-color: #fff;
+	margin: 0.5em;
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #4A4A4A;
+}
+
+.main_head {
+	background-color: #FAFAFA;
+	padding: 3em 1em 3em 1em;
+	
+}
+
+.main_head h1 {
+	margin: 0;
+}
+
+.main_nav ul{
+	padding-left: 0;
+	padding-top: 0.5em;
+	padding-bottom: 1em;
+}
+
+.profile_pic {
+	width: 70%
+}
+
+.pad{
+	padding: 3em 1em 0 1em;
+} 
+
+footer{
+	background-color: #FAFAFA;
+}
+
+.align {
+	display: inline-block;
+	padding-bottom: .5em 
+}
+
+.bold {
+	font-weight: bold;
+	padding-left: .5em
+}
+
+footer ul{
+	list-style: none;
+	
+}
